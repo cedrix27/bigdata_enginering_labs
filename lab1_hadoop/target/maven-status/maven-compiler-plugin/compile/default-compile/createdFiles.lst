@@ -1,0 +1,4 @@
+hadoop/ismagi/ReadHDFS.class
+hadoop/ismagi/HadoopFileStatus.class
+hadoop/ismagi/WriteHDFS.class
+hadoop/ismagi/Main.class
